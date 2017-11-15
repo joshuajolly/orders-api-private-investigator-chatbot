@@ -3,13 +3,15 @@ Step into the shoes of a Private Investigator called to the scene of a murder. A
 
 Developed for the chatbot MindSumo competition, https://www.mindsumo.com/contests/chatbot. 
 
-#How to use
-Download the JSON file at \data\Private-Investigator-Chatbot.json to your computer.
-Nagivate to https://watson-conversation.ng.bluemix.net/instances.
-At the top it will say {Workspaces} {Create} {^}.
-Click the upload icon (or {^})
-When it says "Import a workspace", navigate to your downloaded JSON file.
-You now have two options:
+### How to use ###
+* Download the JSON file at \data\Private-Investigator-Chatbot.json to your computer.
+* Nagivate to https://watson-conversation.ng.bluemix.net/instances.
+* At the top it will say {Workspaces} {Create} {^}.
+* Click the upload icon (or {^})
+* When it says "Import a workspace", navigate to your downloaded JSON file.
+
+### You now have two options: ###
+
 
 1. First Option
 	1. At the top right corner you can click the icon that looks like a speech bubble with a (...) inside.
