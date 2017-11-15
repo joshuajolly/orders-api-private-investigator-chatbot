@@ -10,10 +10,11 @@ At the top it will say {Workspaces} {Create} {^}.
 Click the upload icon (or {^})
 When it says "Import a workspace", navigate to your downloaded JSON file.
 You now have two options:
-1. 
+1. First Option
   1. At the top right corner you can click the icon that looks like a speech bubble with a (...) inside.
   2. This will allow you to immediately use the Conversation without downloading.
   3. If you would like to deploy it to Slack or a similar service, on the far left corner click the circular pointer (its the third icon down), and it will walk you through deploying the app.
 
-2. If you would like to run the app locally, download this repository at https://github.com/joshuajolly/Private-Investigator-Chatbot/archive/master.zip.
-  1. Make sure you have Python 3.X.X installed.
+2. Second Option
+  1. If you would like to run the app locally, download this repository at https://github.com/joshuajolly/Private-Investigator-Chatbot/archive/master.zip.
+  2. Make sure you have Python 3.X.X installed.
