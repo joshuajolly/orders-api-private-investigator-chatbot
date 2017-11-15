@@ -6,7 +6,7 @@ Went into this with absolutely no experience with AI and very limited experience
 Important note: A lot of this code is forked from IBM sources, I do not claim ownership over anything but the Conversation JSON material.
 
 ### How to use ###
-* Download the JSON file at \conversations\Private-Investigator-Chatbot.json to your computer.
+* Download the JSON file at \conversations\Private-Investigator-Chatbot.json.
 * Nagivate to https://watson-conversation.ng.bluemix.net/instances.
 * At the top it will say {Workspaces} {Create} {^}.
 * Click the upload icon (or {^})
