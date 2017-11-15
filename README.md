@@ -22,6 +22,6 @@ You now have two options:
 	3. Install watson_developer_cloud ("pip install watson_developer_cloud")
 	4. Get workspace id and conversation username/password using the following:
 		1. Workspace ID: find at https://watson-conversation.ng.bluemix.net/, workspaces >Private-Investigator-Chatbot > ... (on top left corner) > "view details" > WORKSPACE ID
-		2. Conversation Username/Password - Navigate to https://console.bluemix.net/catalog/services/conversation, click create, Navigate to https://console.bluemix.net/dashboard/apps, click on "Conversation" > Service Credentials, and then paste your Conversation Username and Password into the slot above.
+		2. Conversation Username/Password - Navigate to https://console.bluemix.net/catalog/services/conversation, click create, Navigate to https://console.bluemix.net/dashboard/apps, click on "Conversation" > Service Credentials, and then paste your Conversation Username and Password into the slot in credentials.txt.
 
 
