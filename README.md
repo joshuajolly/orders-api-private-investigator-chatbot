@@ -11,10 +11,10 @@ Click the upload icon (or {^})
 When it says "Import a workspace", navigate to your downloaded JSON file.
 You now have two options:
 
-## First Option ##
-	* At the top right corner you can click the icon that looks like a speech bubble with a (...) inside.
-	* This will allow you to immediately use the Conversation without downloading.
-	* If you would like to deploy it to Slack or a similar service, on the far left corner click the circular pointer (its the third icon down), and it will walk you through deploying the app.
+1. First Option ##
+	1. At the top right corner you can click the icon that looks like a speech bubble with a (...) inside.
+	2. This will allow you to immediately use the Conversation without downloading.
+	3. If you would like to deploy it to Slack or a similar service, on the far left corner click the circular pointer (its the third icon down), and it will walk you through deploying the app.
 
 ## Second Option ##
 	* If you would like to run the app locally, download this repository at https://github.com/joshuajolly/Private-Investigator-Chatbot/archive/master.zip.
