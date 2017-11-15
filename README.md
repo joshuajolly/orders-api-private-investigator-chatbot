@@ -19,3 +19,4 @@ You now have two options:
 2. Second Option
 	1. If you would like to run the app locally, download this repository at https://github.com/joshuajolly/Private-Investigator-Chatbot/archive/master.zip.
 	2. Make sure you have Python 3.X.X installed.
+	3. Install watson_developer_cloud ("pip install watson_developer_cloud")
