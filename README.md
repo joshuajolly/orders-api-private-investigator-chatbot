@@ -10,6 +10,7 @@ At the top it will say {Workspaces} {Create} {^}.
 Click the upload icon (or {^})
 When it says "Import a workspace", navigate to your downloaded JSON file.
 You now have two options:
+
 *First Option
 	* At the top right corner you can click the icon that looks like a speech bubble with a (...) inside.
 	* This will allow you to immediately use the Conversation without downloading.
