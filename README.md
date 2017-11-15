@@ -20,10 +20,12 @@ Developed for the chatbot MindSumo competition, https://www.mindsumo.com/contest
 
 2. Second Option
 	1. If you would like to run the app locally, download this repository at https://github.com/joshuajolly/Private-Investigator-Chatbot/archive/master.zip.
-	2. Make sure you have Python 3.X.X installed.
-	3. Install watson_developer_cloud ("pip install watson_developer_cloud")
-	4. Get workspace id and conversation username/password using the following:
+	2. Install node.js
+	3. Get workspace id and conversation username/password using the following:
 		1. Workspace ID: find at https://watson-conversation.ng.bluemix.net/, workspaces >Private-Investigator-Chatbot > ... (on top left corner) > "view details" > WORKSPACE ID
 		2. Conversation Username/Password - Navigate to https://console.bluemix.net/catalog/services/conversation, click create, Navigate to https://console.bluemix.net/dashboard/apps, click on "Conversation" > Service Credentials, and then paste your Conversation Username and Password into the slot in credentials.txt.
+		3. Same process for "Tone" apis, provided you have already deployed the app to https://console.bluemix.net/catalog/services/.
+	4. Navigate to directory in CMD, and type "npm install". When that finishes type "npm start".
+	5. Enjoy!
 
 
